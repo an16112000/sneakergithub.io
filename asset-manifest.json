@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/an16112000/sneakergithub.io/code/static/css/main.0a2dbe84.css",
-    "main.js": "/an16112000/sneakergithub.io/code/static/js/main.2209aa5d.js",
-    "static/js/787.35d850c3.chunk.js": "/an16112000/sneakergithub.io/code/static/js/787.35d850c3.chunk.js",
-    "index.html": "/an16112000/sneakergithub.io/code/index.html",
-    "main.0a2dbe84.css.map": "/an16112000/sneakergithub.io/code/static/css/main.0a2dbe84.css.map",
-    "main.2209aa5d.js.map": "/an16112000/sneakergithub.io/code/static/js/main.2209aa5d.js.map",
-    "787.35d850c3.chunk.js.map": "/an16112000/sneakergithub.io/code/static/js/787.35d850c3.chunk.js.map"
+    "main.css": "/sneakergithub.io/code/static/css/main.0a2dbe84.css",
+    "main.js": "/sneakergithub.io/code/static/js/main.bf1ae852.js",
+    "static/js/787.35d850c3.chunk.js": "/sneakergithub.io/code/static/js/787.35d850c3.chunk.js",
+    "index.html": "/sneakergithub.io/code/index.html",
+    "main.0a2dbe84.css.map": "/sneakergithub.io/code/static/css/main.0a2dbe84.css.map",
+    "main.bf1ae852.js.map": "/sneakergithub.io/code/static/js/main.bf1ae852.js.map",
+    "787.35d850c3.chunk.js.map": "/sneakergithub.io/code/static/js/787.35d850c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a2dbe84.css",
-    "static/js/main.2209aa5d.js"
+    "static/js/main.bf1ae852.js"
   ]
 }
