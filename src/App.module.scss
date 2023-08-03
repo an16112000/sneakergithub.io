@@ -1,0 +1,80 @@
+.container {
+  position: relative;
+}
+
+.header {
+  height: 60px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  box-shadow: 0px 2px #888888;
+  background-color: #fff;
+  z-index: 9999;
+}
+
+.type {
+  display: flex;
+  justify-content: space-around;
+  flex: 1;
+}
+
+.itemHeader {
+  border: none;
+  background-color: inherit;
+  font-size: 20px;
+  &:hover {
+    cursor: pointer;
+    opacity: 0.6;
+  }
+}
+
+.search {
+  flex: 1;
+  text-align: end;
+  justify-content: flex-end;
+}
+
+.input,
+.btn {
+  padding: 6px 4px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.btn:hover {
+  opacity: 0.6;
+  cursor: pointer;
+  border: 1px solid #000;
+}
+
+.input {
+  width: 200px;
+  margin-right: 10px;
+}
+
+.wrapper {
+  margin-top: 100px;
+}
+
+.content {
+  height: 100%;
+  width: 100%;
+}
+
+.modal {
+  margin-top: -50px;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: block;
+  z-index: 100;
+}
